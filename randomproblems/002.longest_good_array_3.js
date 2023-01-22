@@ -19,7 +19,7 @@ function driver(X, Y){
     return answer
 }
 function main(){
-    var X = 5, Y = 1
+    var X = 1, Y = 4
     console.log(driver(X, Y))
 }
 
